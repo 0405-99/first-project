@@ -1,0 +1,9 @@
+torch>=1.8.0
+transformers>=4.5.0
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+streamlit>=1.10.0
+regex
